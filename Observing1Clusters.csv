@@ -1,0 +1,21 @@
+Cluster,In final sample?,angular size (longest side) [arcmin],within FOV?,Too dense?,CCD photometry?,locus?,brightest star [magnitudes],dimmest star [magnitudes],Enough stars less than 23.6 in magnitude?,comments
+IC 1311,,4.23,TRUE,FALSE,TRUE,TRUE,12,22,TRUE,
+Dolidze 39,,12,TRUE,TRUE,,,,,,
+IC 4996,x,26.67,TRUE,FALSE,TRUE,TRUE,8,20-21,TRUE,3rd highest brightness with normal cmd plot
+Berkeley 85,,10,TRUE,FALSE,FALSE,,,,,
+Berkeley 86,,10,TRUE,FALSE,TRUE,FALSE,,,,
+Collinder 421,x,14,TRUE,FALSE,TRUE,TRUE,9,18,TRUE,highest brightnesses
+NGC 6910,,19.92,TRUE,FALSE,TRUE,TRUE,8,18-19,TRUE,very low star count
+NGC 6913,,34.25,FALSE,FALSE,,,,,,
+Berkely 89,,10,TRUE,FALSE,TRUE,TRUE,10,22,TRUE,
+Berkeley 53,,12,TRUE,FALSE,TRUE,TRUE,12,22,TRUE,
+Berkeley 54,,10,TRUE,FALSE,TRUE,TRUE,13,22,TRUE,
+Berkeley 91,,10,TRUE,FALSE,TRUE,TRUE,12,21-22,TRUE,
+NGC 7044,,12.89,TRUE,FALSE,TRUE,TRUE,12,22-23,TRUE,
+Berkeley 55,x,10,TRUE,FALSE,TRUE,TRUE,12,19,TRUE,2nd highest brightnesses
+Berkeley 56,,10,TRUE,TRUE,,,,,,
+NGC 7067,,10,TRUE,FALSE,TRUE,FALSE,,,,
+NGC 7128,,10,TRUE,FALSE,TRUE,TRUE,8,20,TRUE,odd cmd plot
+IC 5146,,20,TRUE,FALSE,TRUE,TRUE,10,24,FALSE,
+NGC 7226,,10,TRUE,FALSE,TRUE,FALSE,,,,
+IC 1434,,10,TRUE,TRUE,,,,,,
